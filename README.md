@@ -1,5 +1,9 @@
 ### SimpleNTPclock_on_ePaper
 
+The ready-made board is avaiable at
+
+https://www.tindie.com/products/microwavemont/epaper-plus-esp32-adb/
+
 Simple Clock sample displaying current time on ePaper display. Before uploading binary to ePaper plus ESP32-ADB, backup your original 
 ```
 pins_arduino.h
